@@ -1,5 +1,6 @@
 # Uso-de-redes-sociales-y-como-afecta-al-sue-o-de-los-jovenes
-Este es un proyecto de ciencias datos
+#TEMA:REDES SOCIALES
+
 ¿El tiempo en redes sociales influye en las horas de sueño de los estudiantes de prepa?
 -Horas diarias en redes sociales(instagram,TikTok,Facebook,etc).
 -Horas de sueño por noche.
