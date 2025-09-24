@@ -7,6 +7,7 @@ REDES SOCIALES
 ## Pregunta a Responder:
 
 ¿El tiempo en redes sociales influye en las horas de sueño de los estudiantes de prepa?
+
 -Horas diarias en redes sociales(instagram,TikTok,Facebook,etc).
 -Horas de sueño por noche.
 -Edad-Genero(para ver diferencias entre grupos)
