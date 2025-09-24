@@ -15,6 +15,10 @@ REDES SOCIALES
 
 ## fuentes de informacion:
 
+-https://www.cienciayeducacion.com/index.php/journal/article/view/163
+-https://www.capi.com.mx/blog/bienestar-individual-salud-mental-emocional/sueno-y-redes-sociales-en-el-desarrollo-de-los-adolescentes.php 
+-https://socialharms.utah.gov/spanish/como-afectan-las-redes-sociales-al-sueno/
+
 
 
 ## objetivo:
