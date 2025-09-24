@@ -13,7 +13,17 @@ REDES SOCIALES
 -Rendimiento escolar(tambien para ver diferencias entre grupos)
 -Estado de animo duranre el dia(cansancio,estres,concentracion).
 
-fuentes de informacion:
+## fuentes de informacion:
+
+
+
+## objetivo:
+
+
+Descubrir si el tiempo que pasan los jevenes en redes sociales los estudiantes relacionan con las horas
+que duermen.Con estos datos se puede armar una comparacion y mostrar quienes usan mas de 4 horas redes
+sociales duermen menos que quienes usan 2 horas8(o menos).
+
 
 
 
