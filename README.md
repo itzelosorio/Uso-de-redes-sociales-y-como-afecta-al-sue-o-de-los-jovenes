@@ -4,7 +4,7 @@
 
 REDES SOCIALES
 
-## Pregunta a Responder:
+## PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
 
 ¿El tiempo en redes sociales influye en las horas de sueño de los estudiantes de prepa?
 
