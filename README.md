@@ -16,7 +16,7 @@ REDES SOCIALES
 - Rendimiento escolar(tambien para ver diferencias entre grupos)
 - Estado de animo duranre el dia(cansancio,estres,concentracion).
 
-## fuentes de informacion:
+## FUENTES DE INFORMACION:
 
 - https://www.cienciayeducacion.com/index.php/journal/article/view/163
 - https://www.capi.com.mx/blog/bienestar-individual-salud-mental-emocional/sueno-y-redes-sociales-en-el-desarrollo-de-los-adolescentes.php 
@@ -24,7 +24,7 @@ REDES SOCIALES
 
 
 
-## objetivo:
+## OBJETIVO:
 
 
 Descubrir si el tiempo que pasan los jevenes en redes sociales los estudiantes relacionan con las horas
