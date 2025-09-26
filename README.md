@@ -1,4 +1,5 @@
 ## Uso-de-redes-sociales-y-como-afecta-al-sue-o-de-los-jovenes
+<p align="center">
 <img width="696" height="393" alt="image" src="https://github.com/user-attachments/assets/818ce7fb-6231-4af5-9856-bab637c19034" />
 
 
